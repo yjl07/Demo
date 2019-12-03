@@ -1,5 +1,5 @@
 <?php
-	echo "1";
-	echo "cde";
-	echo "abc";
+	if (true) {
+		echo "My name is xiaoqiang";
+	}
 ?>
